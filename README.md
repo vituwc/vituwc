@@ -1,9 +1,7 @@
 # Olá! Eu sou o VituWc 🖐️
 
-### [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white&color=transparent)](https://seublog.com) 
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=transparent)](https://youtube.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=transparent)](https://instagram.com) 
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&color=transparent)](https://twitch.tv)
+### [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=transparent)](https://youtube.com/vituwc) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=transparent)](https://instagram.com/vituwc) 
 
 ---
 
@@ -15,7 +13,7 @@
 
 ---
 
-💻 Desenvolvedor em formação, apaixonado por explorar novas linguagens e tecnologias, com o objetivo de evoluir continuamente na programação e compartilhar conhecimento!
+💻 Desenvolvedor em formação, sempre explorando novas linguagens e tecnologias para evoluir na programação e compartilhar conhecimento!
 
 ### Estatísticas do GitHub
 
