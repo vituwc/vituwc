@@ -1,7 +1,6 @@
 # Olá! Eu sou o VituWc 🖐️
 
-### [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=30363d)](https://youtube.com/vituwc) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=30363d)](https://instagram.com/vituwc) 
+### [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=30363d)](https://youtube.com/vituwc) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=30363d)](https://instagram.com/vituwc) 
 
 ---
 
