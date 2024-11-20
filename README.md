@@ -15,8 +15,6 @@
 
 💻 Now, I’m a software engineering student ⏤ currently learning, building projects, and seeking opportunities to grow professionally.
 
-### GitHub Stats
-
 ![VituWc GitHub stats](https://github-readme-stats.vercel.app/api?username=vituwc&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=transparent)
