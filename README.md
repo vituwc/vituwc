@@ -1,4 +1,3 @@
-Aqui está uma versão aprimorada no mesmo formato que você enviou:  
 
 ---
 
@@ -43,5 +42,3 @@ I’m a Systems Analysis and Development student passionate about **Cybersecurit
 🌐 **GitHub:** [github.com/vituwc](https://github.com/vituwc)  
 
 ---  
-
-Se houver algo a mais para incluir ou melhorar, é só avisar!
