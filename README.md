@@ -25,19 +25,6 @@
 
 ---
 
-### My Skills  
-
-🛡 **Cybersecurity Tools:**  
-Metasploit, Nmap, Burp Suite, Wireshark  
-
-🔧 **Version Control:**  
-Git, GitHub  
-
-💡 **Operating Systems:**  
-Windows, Linux  
-
----
-
 ### GitHub Stats
 
 ![VituWc GitHub stats](https://github-readme-stats.vercel.app/api?username=vituwc&show_icons=true&theme=transparent)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=transparent)
