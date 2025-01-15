@@ -1,6 +1,4 @@
 
----
-
 # Hello! I’m VituWc 🖐️  
 
 ### Technologies I use in my daily life  
