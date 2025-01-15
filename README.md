@@ -16,7 +16,6 @@ I’m a Systems Analysis and Development student passionate about **Cybersecurit
 🌎 **Languages:**  
 - **Portuguese:** Native  
 - **English:** Intermediate (B1)  
-- **Spanish:** Basic  
 
 🏆 **Certifications:**  
 - Cybersecurity (Alura, 2024)  
