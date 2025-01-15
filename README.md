@@ -1,4 +1,4 @@
-Aqui está o texto ajustado com os ícones que você pediu e o tema consistente com o GitHub Stats:  
+Aqui está a versão ajustada com todos os ícones no mesmo tema (transparente e escuro), como o GitHub Stats:  
 
 ---
 
@@ -38,10 +38,10 @@ Aqui está o texto ajustado com os ícones que você pediu e o tema consistente 
 
 ### Contact Me  
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vituuwc@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vituwc)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vituwc)  
+[![Gmail](https://img.shields.io/badge/Gmail-30363d?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:vituuwc@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-30363d?style=for-the-badge&logo=linkedin&logoColor=0077B5)](https://linkedin.com/in/vituwc)  
+[![GitHub](https://img.shields.io/badge/GitHub-30363d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vituwc)  
 
 ---  
 
-Se precisar de mais algum ajuste, é só avisar!
+Agora todos os ícones seguem o mesmo tema. Caso tenha mais personalizações em mente, é só avisar!
