@@ -1,20 +1,37 @@
-# Hello! I’m VituWc 🖐️
+Hello! I’m VituWc 🖐️
+About Me
+💻 I’m a Computer Science student specializing in Systems Analysis and Development with a focus on Cybersecurity. My passion is to learn, solve problems, and apply innovative solutions to challenges in technology and security.
 
-### [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&color=30363d)](https://www.youtube.com/@vituwc) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=30363d)](https://instagram.com/vituwc) 
+🌎 Languages:
 
----
+Portuguese: Native
+English: Intermediate (B1)
+Spanish: Basic
+🏆 I hold certifications in:
 
-### Technologies I use in my daily life
+Cybersecurity (Alura, 2024)
+C Programming Language (Alura, 2024)
+C++ Programming Language (Alura, 2024)
+Technologies I Use
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=30363d)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=30363d)
 
----
+My Skills
+🛡 Cybersecurity Tools:
+Metasploit, Nmap, Burp Suite, Wireshark
 
-💻 Now, I’m a software engineering student ⏤ currently learning, building projects, and seeking opportunities to grow professionally.
+🔧 Version Control:
+Git, GitHub
 
-### GitHub Stats
+💡 Operating Systems:
+Windows, Linux
 
-![VituWc GitHub stats](https://github-readme-stats.vercel.app/api?username=vituwc&show_icons=true&theme=transparent)
+GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=transparent)
+
+
+
+Contact Me
+📫 Email: vituuwc@gmail.com
+🌐 LinkedIn: linkedin.com/in/vituwc
+🌐 GitHub: github.com/vituwc
+
