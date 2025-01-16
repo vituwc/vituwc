@@ -6,10 +6,10 @@ I’m a Systems Analysis and Development student passionate about **Cybersecurit
 ---
 
 ## 🛠️ Technologies I use in my daily life
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=30363d)  
-- ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=30363d)  
-- ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=30363d)  
-- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=30363d)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=30363d)  
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=30363d)  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white&color=30363d)  
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&color=30363d)  
 
 ---
 
