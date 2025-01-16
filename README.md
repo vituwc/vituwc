@@ -32,24 +32,8 @@ I’m a Systems Analysis and Development student passionate about **Cybersecurit
 
 ---
 
-## 📚 Projects
-### Sniffer de Pacotes
-- **Description:** A simple packet sniffer built with **Python**, **Scapy**, and **Tkinter** for capturing and analyzing network traffic.  
-- **Key Features:**
-    - Real-time packet capture
-    - IP, TCP, UDP, and ICMP packet analysis
-    - Save packets in `.pcap` format for later analysis
-    - Start and stop capture with a GUI interface
-
----
-
 ## 📬 Contact
 - **Email:** [vituuwc@gmail.com](mailto:vituuwc@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/vituwc](https://linkedin.com/in/vituwc)  
 - **GitHub:** [github.com/vituwc](https://github.com/vituwc)  
 
----
-
-### 📅 Current Projects
-- **Website Development:** I'm working on building a **Computer Parts Website** to expand my knowledge of HTML, JavaScript, CSS, and back-end programming in Python, C, C++, and Java.  
-- **Cybersecurity Focus:** Currently enhancing my penetration testing skills by developing **tools** and **scripts** to improve my proficiency in **network security** and **ethical hacking**.
