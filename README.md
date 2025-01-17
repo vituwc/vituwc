@@ -1,4 +1,4 @@
-# Hello! I’m VituWc 🖐️  
+[# Hello! I’m VituWc 🖐️  
 
 ## 🚀 About Me
 I’m a Systems Analysis and Development student passionate about **Cybersecurity** and **Programming**. I’m always learning, building projects, and seeking opportunities to grow professionally.
@@ -27,8 +27,8 @@ I’m a Systems Analysis and Development student passionate about **Cybersecurit
 ---
 
 ## 📈 GitHub Stats
-![Vituwc GitHub stats](https://github-readme-stats.vercel.app/api?username=vituwc&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=transparent)  
+![Vituwc GitHub stats](https://github-readme-stats.vercel.app/api?username=vituwc&show_icons=true&theme=transparent&date=<timestamp>)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=transparent&date=<timestamp>)
 
 ---
 
@@ -37,3 +37,4 @@ I’m a Systems Analysis and Development student passionate about **Cybersecurit
 - **LinkedIn:** [linkedin.com/in/vituwc](https://linkedin.com/in/vituwc)  
 - **GitHub:** [github.com/vituwc](https://github.com/vituwc)  
 
+](https://camo.githubusercontent.com/ec788d16d714f677ca8e16ae2c2102a20a1270a08eae839bd93da216c44ef9e3/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d616e7572616768617a7261266c61796f75743d636f6d70616374)
