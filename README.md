@@ -1,4 +1,4 @@
-[# Hello! I’m VituWc 🖐️  
+# Hello! I’m VituWc 🖐️  
 
 ## 🚀 About Me
 I’m a Systems Analysis and Development student passionate about **Cybersecurity** and **Programming**. I’m always learning, building projects, and seeking opportunities to grow professionally.
