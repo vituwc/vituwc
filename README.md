@@ -1,13 +1,12 @@
 Hi, Vituwc Here! :cowboy_hat_face: :brazil:
 
-| <img src="https://github-readme-stats.vercel.app/api?username=vituwc&show_icons=true&theme=transparent&date=<timestamp>" width="600px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=transparent&date=<timestamp>" width="600px"/> | <img src="https://github.com/vituwc/vituwc/blob/main/communist-github.jpg" width="350px" height="197px" alt="Comunista GitHub"> |
-| :-: | :-: | :-: |
+| <img src="https://github-readme-stats.vercel.app/api?username=vituwc&show_icons=true&theme=transparent&date=<timestamp>" width="500px"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=transparent&date=<timestamp>" width="500px"/> |
+| :-: | :-: |
 
----
+<br>
 
-- **Email:** [vituuwc@gmail.com](mailto:vituuwc@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/vituwc](https://linkedin.com/in/vituwc)  
-- **GitHub:** [github.com/vituwc](https://github.com/vituwc)
+| <img src="https://github.com/vituwc/vituwc/blob/main/communist-github.jpg" width="100%" height="auto" alt="Comunista GitHub"> |
+| :-: |
 
 ---
 
