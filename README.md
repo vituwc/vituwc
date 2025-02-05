@@ -1,4 +1,4 @@
-!([URL_da_Imagem](https://raw.githubusercontent.com/RodrigoDornelles/RodrigoDornelles/master/communist-github.jpeg?4k))
+<img src="[https://exemplo.com/logo.png](https://raw.githubusercontent.com/RodrigoDornelles/RodrigoDornelles/master/communist-github.jpeg?4k)" alt="Logo da Minha Empresa">
 
 
 
