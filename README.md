@@ -1,4 +1,4 @@
-<img src="[https://exemplo.com/logo.png](https://raw.githubusercontent.com/RodrigoDornelles/RodrigoDornelles/master/communist-github.jpeg?4k)" alt="Logo da Minha Empresa">
+![Minha imagem]((https://github.com/vituwc/vituwc/blob/main/communist-github.jpg))
 
 
 
