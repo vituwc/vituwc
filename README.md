@@ -1,4 +1,4 @@
-![Minha imagem]((https://github.com/vituwc/vituwc/blob/main/communist-github.jpg))
+!(https://github.com/vituwc/vituwc/blob/main/communist-github.jpg)
 
 
 
