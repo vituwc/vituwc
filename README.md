@@ -1,5 +1,3 @@
-Hi, Vituwc Here! :cowboy_hat_face: :brazil:
-
 | <img src="https://github-readme-stats.vercel.app/api?username=vituwc&show_icons=true&theme=transparent&date=<timestamp>" width="100%" /> <br/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=transparent&date=<timestamp>" width="100%" /> | <img src="https://github.com/vituwc/vituwc/blob/main/communist-github.jpg" width="100%" height="auto" alt="Comunista"> |
 | :-: | :-: |
 
