@@ -1,8 +1,9 @@
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+<div style="display: flex; align-items: flex-start; gap: 20px;">
     <div>
         <img src="https://github-readme-stats.vercel.app/api?username=vituwc&show_icons=true&theme=transparent&date=<timestamp>" alt="Vituwc GitHub stats" width="500">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=transparent&date=<timestamp>" alt="Top Langs" width="500">
     </div>
+    
     <img src="https://github.com/vituwc/vituwc/blob/main/communist-github.jpg" width="300" height="169" alt="Comunista GitHub">
 </div>
 
