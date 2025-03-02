@@ -1,9 +1,9 @@
 <img src="https://github.com/vituwc/vituwc/blob/main/communist-github.jpg" />  
 <br/>
-<div style="display: flex; justify-content: space-around;">
+<div style="display: flex; justify-content: space-between; width: 100%;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=vituwc&show_icons=true&theme=transparent&date=<timestamp>" width="300px"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=transparent&date=<timestamp>" width="300px"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=vituwc&show_icons=true&theme=transparent&date=<timestamp>" width="48%" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=transparent&date=<timestamp>" width="48%" />
 
 </div>
   
