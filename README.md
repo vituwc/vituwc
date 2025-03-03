@@ -12,21 +12,19 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=vituwc&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
+<h1 align="center"></h1>
 
 ###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">
+I'm a cybersecurity professional from Brazil, focused on penetration testing.<br><br>
+- 🔭 I’m working as a pentester.<br>
+- 📚 I'm currently learning more about advanced exploitation techniques, reverse engineering, and malware development.<br>
+- ⚡ In my free time, I enjoy reading about cybersecurity, playing chess, solving math problems, and gaming.<br>
+</p>
 
 ###
 
