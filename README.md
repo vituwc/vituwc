@@ -29,13 +29,10 @@ Additionally, I write about my cybersecurity journey, sharing my knowledge on et
 <br/>
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on improving my penetration testing skills and contributing to bug bounty programs  
 - 🌱 I’m currently learning more about advanced exploitation techniques, reverse engineering, and malware development  
 - ⚡ Fun fact: I enjoy mathematics and play chess  
-
-</td><td valign="top" width="50%"></td></tr></table>  
 
 <br/>
 
