@@ -59,6 +59,8 @@ Additionally, I write about my cybersecurity journey, sharing my knowledge on et
 
 </td></tr></table>  
 
+<br/>
+
 <br/>  
 
 <div align="center">
