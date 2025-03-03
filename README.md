@@ -21,7 +21,7 @@
 ###
 <p align="left">
 I'm a cybersecurity professional from Brazil, focused on penetration testing.<br><br>
-- 🔭 I’m working as a pentester.<br>
+- 🔭 I don't have a job yet, so I keep learning and trying to participate in some bug bounty programs.<br>
 - 📚 I'm currently learning more about advanced exploitation techniques, reverse engineering, and malware development.<br>
 - ⚡ In my free time, I enjoy reading about cybersecurity, playing chess, solving math problems, and gaming.<br>
 </p>
