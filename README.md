@@ -2,18 +2,7 @@
   <img height="300" src="https://github.com/vituwc/vituwc/blob/main/communist-github.jpg" />
 </div>
 
-###
-
-### How to find me
-
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1974932) 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vituwc) 
-<a href="https://www.linkedin.com/in/vituwc/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Profile" />
-</a>
-
-###
-
+###=
 <h3 align="left">👩‍💻 About Me</h3>
 
 ###
@@ -23,8 +12,17 @@ I'm a cybersecurity professional from Brazil, focused on penetration testing.<br
 - 📚 I'm currently learning more about advanced exploitation techniques, reverse engineering, and malware development.<br>
 - ⚡ In my free time, I enjoy reading about cybersecurity, playing chess, solving math problems, and gaming.<br>
 </p>
+###
+### Where find me
+
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1974932) 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vituwc) 
+<a href="https://www.linkedin.com/in/vituwc/">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Profile" />
+</a>
 
 ###
+
 
 <h3 align="left">🛠 Language and Tools</h3>
 ###
@@ -42,7 +40,7 @@ I'm a cybersecurity professional from Brazil, focused on penetration testing.<br
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Debian logo" />
 </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=dark)
 
 ###
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=dark)
