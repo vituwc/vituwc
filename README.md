@@ -1,18 +1,12 @@
 <div align="center">
-  <img height="450" src="https://github.com/vituwc/vituwc/blob/main/communist-github.jpg"  />
+  <img height="300" src="https://github.com/vituwc/vituwc/blob/main/communist-github.jpg"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+### How to find me 
 
-### 🏴 CTF Platforms  
-
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1974932) [![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vituwc)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1974932) [![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vituwc) <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="https://www.linkedin.com/in/vituwc/"  />
 
 
 ###
@@ -30,7 +24,6 @@ I'm a cybersecurity professional from Brazil, focused on penetration testing.<br
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
-
 ###
 
 <div align="left">
@@ -44,11 +37,6 @@ I'm a cybersecurity professional from Brazil, focused on penetration testing.<br
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Kali Linux logo" />
 </div>
-
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
