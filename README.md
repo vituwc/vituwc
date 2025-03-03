@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="720" src="https://github.com/vituwc/vituwc/blob/main/communist-github.jpg"  />
+  <img height="520" src="https://github.com/vituwc/vituwc/blob/main/communist-github.jpg"  />
 </div>
 
 ###
