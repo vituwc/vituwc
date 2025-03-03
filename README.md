@@ -27,7 +27,9 @@ I'm a cybersecurity professional from Brazil, focused on penetration testing.<br
 ###
 
 <h3 align="left">🛠 Language and Tools</h3>
-
+###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=dark)
+###
 ###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C logo" />
@@ -42,4 +44,4 @@ I'm a cybersecurity professional from Brazil, focused on penetration testing.<br
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Debian logo" />
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=dark)
+
