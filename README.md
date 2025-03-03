@@ -49,15 +49,15 @@ Additionally, I write about my cybersecurity journey, sharing my knowledge on et
 <br/>
 
 ## Github Stats  
-<table><tr><td valign="top" width="40%" style="overflow: hidden;">
+<table><td valign="top" width="50%" style="overflow: hidden;">
 
   <img src="https://github-readme-stats.vercel.app/api?username=vituwc&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%; border: none;" />
 
-</td><td valign="top" width="40%" style="overflow: hidden;">
+</td><td valign="top" width="50%" style="overflow: hidden;">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%; border: none;" />
 
-</td></tr></table>
+</td></table>
 
 <br/>
 
