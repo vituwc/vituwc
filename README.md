@@ -9,13 +9,13 @@ I'm a cybersecurity professional from Brazil, focused on penetration testing.<br
 
 ###
 
-### Where to find me
+    ### Where to find me
 
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1974932) 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vituwc) 
-<a href="https://www.linkedin.com/in/vituwc/">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Profile" />
-</a>
+    [![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1974932) 
+    [![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vituwc) 
+    <a href="https://www.linkedin.com/in/vituwc/">
+      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn Profile" />
+    </a>
 
 ###
 
