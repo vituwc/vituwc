@@ -11,11 +11,7 @@
 </div>
 
 ###
-### 🏴 Hack The Box  
-[<img src="https://www.hackthebox.com/badge/image/1974932" alt="Hack The Box">](https://app.hackthebox.com/profile/1974932)
-### 🏴 TryHackMe  
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vituwc)
-<h1 align="center"></h1>
+[<img src="https://www.hackthebox.com/images/htb-og-image.png" width="150">](https://app.hackthebox.com/profile/1974932)  [<img src="https://tryhackme.com/img/THMlogo.png" width="150">](https://tryhackme.com/p/vituwc)
 
 ###
 
