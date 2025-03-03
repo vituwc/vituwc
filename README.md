@@ -12,7 +12,7 @@
 
 ### 🏴 CTF Platforms  
 
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1974932), [![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vituwc)
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1974932) [![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vituwc)
 
 
 ###
@@ -52,8 +52,6 @@ I'm a cybersecurity professional from Brazil, focused on penetration testing.<br
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=vituwc&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=dark)
 
 ###
