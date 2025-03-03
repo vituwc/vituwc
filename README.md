@@ -10,8 +10,10 @@
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
-###
-[<img src="https://www.hackthebox.com/images/htb-og-image.png" width="150">](https://app.hackthebox.com/profile/1974932)  [<img src="https://tryhackme.com/img/THMlogo.png" width="150">](https://tryhackme.com/p/vituwc)
+### 🏴 CTF Platforms  
+
+[![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/profile/1974932)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/vituwc)
 
 ###
 
