@@ -34,8 +34,6 @@ Additionally, I write about my cybersecurity journey, sharing my knowledge on et
 - 🌱 I’m currently learning more about advanced exploitation techniques, reverse engineering, and malware development  
 - ⚡ Fun fact: I enjoy mathematics and play chess  
 
-<br/>
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
@@ -63,15 +61,10 @@ Additionally, I write about my cybersecurity journey, sharing my knowledge on et
 
 <br/>  
 
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vituwc&&style=flat-square" align="center" />
 </div>  
 
 <br/>  
 
-<br />
-
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
