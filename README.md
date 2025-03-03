@@ -1,12 +1,5 @@
-<div align="center">
-  <img height="250" src="https://github.com/vituwc/vituwc/blob/main/communist-github.jpg" />
-</div>
-
-###
-
 <h3 align="left">👩‍💻 About Me</h3>
 
-###
 <p align="left">
 I'm a cybersecurity professional from Brazil, focused on penetration testing.<br><br>
 - 🔭 I don't have a job yet, so I keep learning and trying to participate in some bug bounty programs.<br>
@@ -27,7 +20,6 @@ I'm a cybersecurity professional from Brazil, focused on penetration testing.<br
 ###
 
 <h3 align="left">🛠 Language and Tools</h3>
-###
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vituwc&layout=compact&theme=dark)
 
@@ -46,4 +38,3 @@ I'm a cybersecurity professional from Brazil, focused on penetration testing.<br
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Debian logo" />
 </div>
-
