@@ -1,3 +1,4 @@
+### See me
 <a href="https://github.com/vituwc" target="_blank">
   <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
 </a>
@@ -11,7 +12,7 @@
   <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" style="margin-bottom: 5px;" />
 </a>
 
-### Glad to see you here!  
+### About me
 I’m a cybersecurity professional from Brazil, focused on penetration testing and ethical hacking. I have a passion for identifying vulnerabilities and strengthening security systems. I’m constantly evolving my skills by participating in bug bounty programs and staying updated with the latest cybersecurity trends and tools.
 
 I specialize in penetration testing, reverse engineering, and developing advanced exploitation techniques. I love solving complex problems and finding vulnerabilities in systems, whether it’s through web applications, networks, or even physical devices. When I’m not engaged in practical cybersecurity work, I enjoy studying malware analysis, exploit development, and researching new cybersecurity strategies.
