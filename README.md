@@ -23,7 +23,7 @@ I specialize in penetration testing, reverse engineering, and developing advance
 
 - 🔭 I’m currently working on improving my penetration testing skills and contributing to bug bounty programs  
 - 🌱 I’m currently learning more about advanced exploitation techniques, reverse engineering, and malware development  
-- ⚡ Fun fact: I enjoy writing tutorials and articles, and also i like mathematics 
+- ⚡ Fun fact: I enjoy writing tutorials and articles, and I also like mathematics  
 
 ## Languages and Tools  
 <div align="center">  
