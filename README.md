@@ -5,7 +5,7 @@
 <a href="https://app.hackthebox.com/profile/1974932" target="_blank">
   <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox" style="margin-bottom: 5px;" />
 </a>
-<a href="https://tryhackme.com/p/vituwc" target="_blank">
+<a href="https://tryhackme.com/p/D0loresHaze" target="_blank">
   <img src="https://img.shields.io/badge/TryHackMe-111927?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" style="margin-bottom: 5px;" />
 </a>
 
