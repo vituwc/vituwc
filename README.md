@@ -26,17 +26,6 @@ I specialize in penetration testing, reverse engineering, and developing advance
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a> 
 
-<br/>
-
-
-<br/>  
-
-<br/>
-
-<br/>
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vituwc&&style=flat-square" align="center" />
 </div>  
