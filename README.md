@@ -2,7 +2,7 @@
 <a href="https://linkedin.com/in/vituwc" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
 </a>
-<a href="https://app.hackthebox.com/profile/1974932" target="_blank">
+<a href="https://app.hackthebox.com/profile/#1974932" target="_blank">
   <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="HackTheBox" style="margin-bottom: 5px;" />
 </a>
 <a href="https://tryhackme.com/p/D0loresHaze" target="_blank">
