@@ -29,7 +29,3 @@ I specialize in penetration testing, reverse engineering, and developing advance
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=vituwc&&style=flat-square" align="center" />
 </div>  
-
-<br/>  
-
-----
